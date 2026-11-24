@@ -8,5 +8,3 @@ __pycache__/
 *.log
 .vscode/
 侯博渊/week06/experiments_thucnews/outputs/*.pt
-
-.DS_Store
