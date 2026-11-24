@@ -3,9 +3,10 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .env.local
-.DS_Store
 .env.bak.*
 *.tar.gz
 *.log
 .vscode/
 侯博渊/week06/experiments_thucnews/outputs/*.pt
+
+.DS_Store
